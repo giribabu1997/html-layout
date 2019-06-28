@@ -1,0 +1,12 @@
+style min-height: 30px;
+margin-bottom: 0;
+border-bottom: 2px solid transparent;
+top: 0;
+position: fixed;
+right: 0;
+left: 0;
+z-index: 1030;
+background: linear-gradient(to bottom,#555 100%,#313131 0);
+display: block;
+font-size: 16px;
+box-shadow: 0 2px 5px rgba(0,0,0,.26);
